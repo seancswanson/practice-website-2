@@ -1,0 +1,74 @@
+html {
+    font-family: monospace;
+}
+
+body {
+    background-color: #f2f2f2;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
+
+.mindful {
+    padding: 20px;
+}
+
+.cart {
+    float-
+}
+
+nav ul li.right {
+    float: right;
+    padding: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    /**/
+    takes out the dots for list. margin: 1px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #d1e0e0;
+    font-size: 20px;
+}
+
+.active {
+    background-color: #e0ebeb;
+    font-size: 22px;
+    padding: 5px;
+}
+
+nav {
+    display: inline-block;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    margin-left: 5px;
+    padding: 0;
+}
+
+nav li a:hover {
+    background-color: #e0ebeb;
+    font-size: 22px;
+    padding: 5px;
+}
+
+article {
+    background-color: #e6e6e6;
+    padding: 20px;
+    margin: 20px;
+}
+
+footer {
+    background-color: #d1e0e0;
+    margin: 0;
+    padding: 5px;
+}
